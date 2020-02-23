@@ -1,3 +1,3 @@
-# custom-template-theme
+# Home page template based on Bootstrap 
 
-Custom html template with js slider
+Responsive html template with custom js slider
